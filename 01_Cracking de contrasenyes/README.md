@@ -7,7 +7,7 @@
 Configurem els adaptadors de xarxa de les màquines virtuals amb adaptador `xarxa NAT`.
 
 
-![](/img/1.png)
+![](./img/1.png)
 ![](/img/2.png)
 
 
