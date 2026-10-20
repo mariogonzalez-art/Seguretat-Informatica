@@ -74,8 +74,8 @@ Finalment executem el procés de desxifrat indicant l'algoritme de xifratge corr
 
 ## Planteja mesures de millora de la seguretat de l'equip a nivell lògic per evitar que un atacant real pugui replicar el mateix atac i per establir una política de contrasenyes segures.
 
-1. Desactivar l'accés directe de root per SSH.
+1. Desactivar l'accés directe del superusuari per SSH i accedir sempre amb un usuari estàndard.
 
-2. Exigir una longitud mínima de 12 caràcters.
+2. Establir un mínim de 12 a 16 caràcters per fer les claus resistents
 
-3. Instal·lar programes per bloquejar automàticament les IPs d'atacants després d'intents fallits consecutius.
+3. Instal·lar eines que bloquegin les IPs darrere de diversos intents fallits d'inici de sessió.
