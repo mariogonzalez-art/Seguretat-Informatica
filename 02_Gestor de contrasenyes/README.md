@@ -30,9 +30,8 @@ Un gestor de contrasenyes serveix per crear claus llargues i úniques sense have
 | Sincronització | Automàtica entre dispositius. | Manual o amb serveis externs. |
 | Model de Seguretat | Xifratge d'extrem a extrem. | Base de dades xifrada amb AES-256 o altres algoritmes compatibles. |
 | Facilitat d'accés | Ordinadors, mòbils i navegadors. | Cal disposar del fitxer de contrasenyes compatibles. |
-| Emmagatzematge | Núvol amb dades xifrades. | Fitxer local `.kdbx`. |
+| Emmagatzematge | Núvol amb dades xifrades. | Fitxer local **.kdbx**. |
 | Dependència del núvol | Sí, per a la sincronització habitual. | No, funciona sense Internet. |
-| Codi obert | Sí. | Sí. |
 | Cost | Versió gratuïta i plans de pagament. | Gratuït. |
 | Portabilitat | Accés des de diferents dispositius amb el mateix compte. | El fitxer es pot copiar a un USB o transferir a altres dispositius. 
 
