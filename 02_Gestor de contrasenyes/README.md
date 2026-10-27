@@ -6,11 +6,19 @@ Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcci
 
 - Explicació de perquè les contrasenyes febles o reutilitzades són un risc crític per a l'empresa (atac de diccionari, credential stuffing, etc.)
 
-**Utilitzar claus fàcils o repetir la mateixa contrasenya a tot arreu posa l'empresa en un risc molt alt ja que els programes automàtics poden fer atacs de diccionari provant paraules comunes fins a encertar la contrasenya. També, si filtren la contrasenya d'un empleat en una altra web, els hackers aprofitaran aquestes dades per intentar entrar als sistemes de la nostra organització mitjançant el farciment de credencials.**
+<br>
+
+Utilitzar claus fàcils o repetir la mateixa contrasenya a tot arreu posa l'empresa en un risc molt alt ja que els programes automàtics poden fer atacs de diccionari provant paraules comunes fins a encertar la contrasenya. També, si filtren la contrasenya d'un empleat en una altra web, els hackers aprofitaran aquestes dades per intentar entrar als sistemes de la nostra organització mitjançant el farciment de credencials.
+
+<br>
 
 - La funció crucial d'un gestor de contrasenyes per mitigar aquests riscos.
 
-**Un gestor de contrasenyes serveix per crear claus llargues i úniques sense haver de recordar-les totes. També ens protegeix del phishing i manté totes les credencials guardades de forma segura sota una sola contrasenya mestra.**
+<br>
+
+Un gestor de contrasenyes serveix per crear claus llargues i úniques sense haver de recordar-les totes. També ens protegeix del phishing i manté totes les credencials guardades de forma segura sota una sola contrasenya mestra.
+
+<br>
 
 2. Comparativa Tècnica: Realitzeu una taula comparativa detallada entre:
 
