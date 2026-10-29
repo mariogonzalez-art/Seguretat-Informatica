@@ -133,4 +133,4 @@ Iniciem sessió a la extensió
 
    - Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
 
-La meva recomanació per emmagatzemar aquesta còpia de seguretat de forma segura seria en un Disc dur.
+La meva recomanació per emmagatzemar aquesta còpia de seguretat de forma segura seria en un disc dur extern o un USB xifrat.
