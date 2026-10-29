@@ -72,11 +72,65 @@ Utilitzant l'eina que heu seleccionat a la Fase 1 (Bitwarden, KeePassX, o simila
 La guia ha de cobrir els següents punts obligatoris:
 
 1. Instal·lació i Configuració Inicial: Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
+
+![](./img/1.png)
+
+![](./img/2.png)
+
+![](./img/3.png)
+
+![](./img/4.png)
+
+![](./img/5.png)
+
+![](./img/6.png)
+
+![](./img/7.png)
+
+ Iniciem sessió a Bitwarden...
+
+![](./img/8.png)
+
+
+
 2. Generació de Contrasenyes Segures: Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
+
+El generador de Bitwarden crea contrasenyes segures automàticament. Només has d'escollir una llargada de "x" caràcters, activar majúscules, minúscules, números i símbols i copiar la contrasenya generada.
+
+![](./img/9.png)
+
 3. Exemples d'Ús i Emplenament Automàtic:
    - Com desar una credencial d'un compte de correu electrònic.
+
+![](./img/10.png)
+
    - Com desar una credencial d'una aplicació o servei web.
+
+![](./img/11.png)
+
+
    - Com fer servir l’extensió del navegador per emplenar automàticament les dades.
+
+![](./img/12.png)
+
+![](./img/13.png)
+
+Iniciem sessió a la extensió
+
+![](./img/14.png)
+
+![](./img/15.png)
+
+
 4. Gestió de Còpies de Seguretat (Backup):
    - Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).
+
+![](./img/16.png)
+
+![](./img/17.png)
+
+![](./img/18.png)
+
    - Recomanació de la millor pràctica per emmagatzemar aquesta còpia de seguretat de forma segura (clau USB xifrada o emmagatzematge xifrat al núvol).
+
+La meva recomanació per emmagatzemar aquesta còpia de seguretat de forma segura seria en un Disc dur.
