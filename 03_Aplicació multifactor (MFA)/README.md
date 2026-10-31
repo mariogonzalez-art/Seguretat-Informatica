@@ -1,6 +1,6 @@
 ### 1. Buscar la aplicació d'autenticació
 
-![](./img/1.jpeg)
+<img src="./img/1.jpeg" width="300">
 
 Busquem la aplicació 2FA i la descarreguem.
 
