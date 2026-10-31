@@ -1,20 +1,36 @@
-### Instruccions de l'activitat
+### 1. Buscar la aplicació d'autenticació
 
-El primer pas serà instal·lar l’app d’autenticació, per aquest exercici usarem Google Authenticator, però funcionaria exactament igual amb qualsevol altra. Trobareu l’app a la botiga d’aplicacions bé sigui d’Android o d’iOS.
+![](./img/1.jpeg)
 
-![](./img/1.png)
+Busquem la aplicació 2FA i la descarreguem.
 
-A continuació, anirem a la configuració del nostre compte del domini mataro.epiaedu.cat a la pestanya de **seguretat** i a **Inici de sessió a Google**.
+### 2. Instal·lar l'aplicació
 
-![](./img/1.png)
+![](./img/2.png)
 
-Entrarem a **Verificació en dos passos** i allà seguirem l’assistent. En primer lloc us farà vincular el mòbil amb el compte (és el mètode principal que utilitza Google). Un cop configurat, us permet seleccionar un segon mètode que pot ser codis per imprimir (ideal per quan no tens opció d’usar el mòbil), una aplicació d’autenticació o fins i tot claus físiques de seguretat. Aquí és on heu de triar **aplicació Authenticator**.
+Hem de connectar la aplicació amb el lloc on el volem protegir. En aquest cas ChatGpt.
 
-![](./img/1.png)
+### 3. Configuració
 
-Quan seleccionem l’opció d’autenticació, ens apareixerà per pantalla un codi QR que haurem d’escanejar amb l’aplicació d’autenticació. Un cop fet, demanarà que introduïm el codi de 6 dígits que apareix a l’aplicació per confirmar (compte que va variant!).
+![](./img/3.png)
+
+Hem de buscar un lloc que digui "Seguretat i inici de sessió".
 
 
-Un cop ho teniu configurat, quan es vol iniciar sessió, per defecte us dona l'opció d'usar el mòbil, però si trieu l'opció "Provar una altra manera", podreu seleccionar l'aplicació d'autenticació i introduir el codi que us genera l'app.
+### 4. Escanejar el QR
 
-![](./img/1.png)
+![](./img/4.png)
+
+Una vegada ens surt el QR, hem d'obrir l'aplicació i li donem al + i escanegem el QR.
+
+### 5. Codi del servei
+
+![](./img/5.png)
+
+Una vegada escanejat, surt un codi. El codi canvia cada 30 segons, i els segons que queden surten a la pantalla.
+
+### 6. Connectar-la al compte
+
+![](./img/6.png)
+
+Quan ja hem fet tot, revisem que s'hagi aplicat correctament anant a l'apartat "Aplicació d'autenticació".
