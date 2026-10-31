@@ -19,18 +19,18 @@ Hem de buscar un lloc que digui "Seguretat i inici de sessió".
 
 ### 4. Escanejar el QR
 
-![](./img/4.png)
+<img src="./img/4.png" width="300">
 
 Una vegada ens surt el QR, hem d'obrir l'aplicació i li donem al + i escanegem el QR.
 
 ### 5. Codi del servei
 
-![](./img/5.png)
+<img src="./img/5.png" width="300">
 
 Una vegada escanejat, surt un codi. El codi canvia cada 30 segons, i els segons que queden surten a la pantalla.
 
 ### 6. Connectar-la al compte
 
-![](./img/6.png)
+<img src="./img/6.png" width="300">
 
 Quan ja hem fet tot, revisem que s'hagi aplicat correctament anant a l'apartat "Aplicació d'autenticació".
